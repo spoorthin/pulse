@@ -1,0 +1,21 @@
+{
+  "name": "pulse",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "bcrypt": "^0.8.5",
+    "body-parser": "^1.14.2",
+    "cw-commons": "git+https://a0d53464d37083be24f64e3d1fc1af7067a905d1:x-oauth-basic@github.com/incture/cw-commons.git",
+    "cw-models": "git+https://a0d53464d37083be24f64e3d1fc1af7067a905d1:x-oauth-basic@github.com/incture/cw-models.git",
+    "cw-module-image-generator": "git+https://a0d53464d37083be24f64e3d1fc1af7067a905d1:x-oauth-basic@github.com/incture/cw-module-image-generator.git",
+    "express": "^4.13.3",
+    "fs": "0.0.2",
+    "jwt-simple": "^0.4.0",
+    "kerberos": "0.0.17",
+    "lodash": "^4.4.0",
+    "moment": "^2.11.2",
+    "moment-range": "^2.2.0",
+    "mongodb": "^2.1.4",
+    "q": "^1.4.1"
+  }
+}
